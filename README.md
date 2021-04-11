@@ -40,3 +40,11 @@ h1 {
   font-size: var(--my-font-size);
 }
 ```
+
+4. Đơn vị trong CSS
+    - px
+    - %: Phụ thuộc vào thẻ chứa nó
+    - rem: Phụ thuộc vào thẻ html
+    - em: Phụ thuộc vào thẻ gần nhất chứa nó
+    - vw (viewport-width): Tỉ lệ phần trăm với chiều ngang trình duyêt (Khác với đơn vị % là đơn vị % phụ thuộc thẻ chứa nó)
+    - vh (viewport-hight): Tỉ lệ phần trăm với chiều dài trình duyêt
