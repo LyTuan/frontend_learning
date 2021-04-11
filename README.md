@@ -17,14 +17,15 @@
 |element ~ element|	div ~ p	|Chọn tất cả thẻ p đứng sau thẻ div|
 
 2. Độ ưu tiên trong CSS
-  - Internal và External: Độ ưu tiên phụ thuộc vào việc đặt thẻ link trước thẻ style (Ưu tiên thẻ style hơn vì mới hơn) và ngược lại
-  - Inline: 1000 
-  - Id: 100
-  - Class: 10
-  - Tag: 1
-  - Equal specific: Cái nào mới hơn (Ở dưới) thì được áp dụng cái đó
-  - Important: Khi khai báo key này, nó sẽ ưu tiên hơn cả inline
-  - Inheritant: Kế thừa từ thuộc tính cha
+
+    - Internal và External: Độ ưu tiên phụ thuộc vào việc đặt thẻ link trước thẻ style (Ưu tiên thẻ style hơn vì mới hơn) và ngược lại
+    - Inline: 1000 
+    - Id: 100
+    - Class: 10
+    - Tag: 1
+    - Equal specific: Cái nào mới hơn (Ở dưới) thì được áp dụng cái đó
+    - Important: Khi khai báo key này, nó sẽ ưu tiên hơn cả inline
+    - Inheritant: Kế thừa từ thuộc tính cha
 
 3. Đặt tên cho biến CSS
 
