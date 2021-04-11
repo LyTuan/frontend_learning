@@ -23,3 +23,5 @@
 - Class: 10
 - Tag: 1
 - Equal specific: Cái nào mới hơn (Ở dưới) thì được áp dụng cái đó
+- Important: Khi khai báo key này, nó sẽ ưu tiên hơn cả inline
+- Inheritant: Kế thừa từ thuộc tính cha
