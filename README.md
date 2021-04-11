@@ -49,3 +49,17 @@ h1 {
     - em: Phụ thuộc vào thẻ gần nhất chứa nó
     - vw (viewport-width): Tỉ lệ phần trăm với chiều ngang trình duyêt (Khác với đơn vị % là đơn vị % phụ thuộc thẻ chứa nó)
     - vh (viewport-hight): Tỉ lệ phần trăm với chiều dài trình duyêt
+
+5. CSS Function
+    - var()
+    - rgb()
+    - calc()
+    - attr()
+6. Pseudo classes
+    - :root  Tham chiếu đến chính thẻ html của page
+    - :hover   Ví dụ: h1:hover, khi hover vào thẻ h1 sẽ sử dụng class này
+    - :active  Ví dụ: h1:active, khi click và giữ chuột sẽ sử dụng class này
+    - :first-child  Ví dụ: ul:first-child, custom cho phần tử đầu tiên của element ul
+    - :last-child Ví dụ: ul:last-child, custom cho phần tử cuối cùng của element ul
+7.
+    - 
