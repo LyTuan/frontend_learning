@@ -25,3 +25,18 @@
 - Equal specific: Cái nào mới hơn (Ở dưới) thì được áp dụng cái đó
 - Important: Khi khai báo key này, nó sẽ ưu tiên hơn cả inline
 - Inheritant: Kế thừa từ thuộc tính cha
+
+3. Đặt tên cho biến CSS
+
+```
+#Khai báo biến global
+:root {
+  --text-color: red;
+}
+h1 {
+  #Khai báo biến local
+  --my-font-size: 12px;
+  color: var(--text-color);
+  font-size: var(--my-font-size);
+}
+```
