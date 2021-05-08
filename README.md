@@ -87,3 +87,7 @@ h1 {
             ```
                 background-position: center; // ra giữa màn hình
             ```
+9. Thuộc tính vị trí 
+    - postion: 
+        - relative:   
+ 
