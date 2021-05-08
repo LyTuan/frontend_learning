@@ -61,5 +61,18 @@ h1 {
     - :active  Ví dụ: h1:active, khi click và giữ chuột sẽ sử dụng class này
     - :first-child  Ví dụ: ul:first-child, custom cho phần tử đầu tiên của element ul
     - :last-child Ví dụ: ul:last-child, custom cho phần tử cuối cùng của element ul
-7.
-    - 
+7. Đệm, viền, khoảng lề 
+    - Padding:
+    - Border: 
+    - Margin: 
+    - Box sizing
+        - Là thuộc tính cho phép tự động tính kích thước phần tử. 
+        - border-box: tự động chia width cho border, padding và content 
+        
+8. Background 
+    - background-clip: 
+        -   Fill background từ vị trí nào. 
+        -   content-box: Fill background cho riêng content
+        -   padding-box: Fill background cho padding + content 
+        -   border-box: Fill background cho border + padding + content 
+    -   
