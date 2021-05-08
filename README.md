@@ -77,7 +77,13 @@ h1 {
         -   border-box: Fill background cho border + padding + content 
     - background-url:
         -  Fill background là 1 hình ảnh
-        ```
-            background-image: linear-gradient(0, rgba(255,255,0, 0.5), rgba(0,0, 255, 0.5)), // Chuyển vùng màu
-            url('https://vcdn-dulich.vnecdn.net/2020/09/04/1-Meo-chup-anh-dep-khi-di-bien-9310-1599219010.jpg');
-        ```
+            ```
+                background-image: linear-gradient(0, rgba(255,255,0, 0.5), rgba(0,0, 255, 0.5)), // Chuyển vùng màu
+                url('https://vcdn-dulich.vnecdn.net/2020/09/04/1-Meo-chup-anh-dep-khi-di-bien-9310-1599219010.jpg');
+            ```
+        - background-size: set kích thước ảnh
+        - background-repeat: lặp lại background 
+        - background-position: vị trí của ảnh
+            ```
+                background-position: center; // ra giữa màn hình
+            ```
