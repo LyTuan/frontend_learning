@@ -120,4 +120,5 @@ h1 {
                    </div>
                 </div>
             ```
- 
+        - fixed: cố định phụ thuộc vào cửa sổ trình duyệt
+  10. Làm project 
