@@ -89,5 +89,10 @@ h1 {
             ```
 9. Thuộc tính vị trí 
     - postion: 
-        - relative:   
+        - relative:  tương đối, không phụ thuộc vào đối tượng nào khác. Phụ thuộc vào chính vị trí hiện tại của element đó.
+            ```
+                position: relative;
+                top: 100px;
+                left: 200px;
+            ```
  
