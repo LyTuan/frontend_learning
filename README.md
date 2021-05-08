@@ -75,4 +75,9 @@ h1 {
         -   content-box: Fill background cho riêng content
         -   padding-box: Fill background cho padding + content 
         -   border-box: Fill background cho border + padding + content 
-    -   
+    - background-url:
+        -  Fill background là 1 hình ảnh
+        ```
+            background-image: linear-gradient(0, rgba(255,255,0, 0.5), rgba(0,0, 255, 0.5)),
+            url('https://vcdn-dulich.vnecdn.net/2020/09/04/1-Meo-chup-anh-dep-khi-di-bien-9310-1599219010.jpg');
+        ```
