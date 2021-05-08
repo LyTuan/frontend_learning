@@ -95,4 +95,29 @@ h1 {
                 top: 100px;
                 left: 200px;
             ```
+         - absolute: tuyệt đối, phụ thuộc vào element cha gần nhất có thuộc tính position.
+            ```
+                 <style>
+                       .box1 {
+                           width: 400px;
+                           height: 500px;
+                           background-color: green;
+                           position: relative;
+                   }
+                   .box2 {
+                       width: 20px;
+                       height: 20px;
+                       position: absolute;
+                       bottom: 0;
+                       right:0;
+                       background-color: red;
+                   }
+                </style>
+
+                <div class="box1">
+                   <div class="box2">
+
+                   </div>
+                </div>
+            ```
  
